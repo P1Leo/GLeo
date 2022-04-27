@@ -3,7 +3,7 @@ package proLeo;
 public class PruebasGit {
 
 	public static void main(String[] args) {
-		System.out.println("Quinto mensaje");
+		System.out.println("Sexto mensaje");
 	}
 
 }
